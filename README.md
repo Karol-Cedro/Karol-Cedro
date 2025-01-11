@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is **Karol**, and I am a **Software Engineer** interested mostly in **backend** and **DevOps**-related topics.
+My name is **Karol**, and I am a **Software Engineer** interested mostly in **Backend** and **DevOps**-related topics.
 
 🎓 **Education**  
 - Graduated with a Bachelor's degree in Computer Science from the AGH University of Science and Technology in Kraków.  
