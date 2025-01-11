@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Karol-Cedro/Karol-Cedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Karol**, and I am a **Software Engineer** interested mostly in **backend** and **DevOps**-related topics.
 
-Here are some ideas to get you started:
+🎓 **Education**  
+- Graduated with a Bachelor's degree in Computer Science from the AGH University of Science and Technology in Kraków.  
+- Currently pursuing my Master's degree at the Warsaw University of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Current Focus**  
+- Working on my Master's thesis, related to **application architecture**, focusing on **monoliths** and **microservices**.
+
+💻 **Professional Experience**  
+- I work as a Software Engineer in a **Platform Engineering** team at **Sabre**, helping to build and improve tools and systems that support our teams.
+
+🚀 **Interests**  
+- I'm open to collaborating on exciting projects, especially as a **Backend Developer** or in **DevOps** roles. Let’s build something amazing together!
+
+📫 **Connect with me**  
+- [LinkedIn](https://www.linkedin.com/in/karolcedro/)
