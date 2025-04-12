@@ -4,10 +4,10 @@ My name is **Karol**, and I am a **Software Engineer** interested mostly in **Ba
 
 🎓 **Education**  
 - Graduated with a Bachelor's degree in Computer Science from the AGH University of Science and Technology in Kraków.  
-- Currently pursuing my Master's degree at the Warsaw University of Technology.
+- Graduated with a Master's degree in Computer Science from the Warsaw University of Technology.
 
 📚 **Current Focus**  
-- Working on my Master's thesis, related to **application architecture**, focusing on **monoliths** and **microservices**.
+- Expanding my knowledge in terms of backend engineering using microservices.
 
 💻 **Professional Experience**  
 - I work as a Software Engineer in a **Platform Engineering** team at **Sabre**, helping to build and improve tools and systems that support our teams.
