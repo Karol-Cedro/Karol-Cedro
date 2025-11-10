@@ -8,7 +8,7 @@ My name is **Karol**, and I am a **Software Engineer** interested mostly in **Ba
 
 📚 **Current Focus**  
 - Expanding my knowledge in terms of backend engineering and DevOps.
-- Currently working on some private projects like Finyze[https://github.com/Karol-Cedro/Finyze]
+- Currently working on some private projects like [Finyze](https://github.com/Karol-Cedro/Finyze)
 
 💻 **Professional Experience**  
 - I work as a Software Engineer in a **Platform Engineering** team at **Sabre**, helping to build and improve tools and systems that support our teams.
